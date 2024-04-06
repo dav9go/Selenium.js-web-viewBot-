@@ -1,0 +1,18 @@
+{
+  "name": "seleniumbot",
+  "version": "1.0.0",
+  "description": "Web page bot views simulating human interactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "dav9go",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.19.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0"
+  }
+}
